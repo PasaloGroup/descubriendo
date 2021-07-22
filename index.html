@@ -16,10 +16,11 @@
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/mediaelementplayer.min.css">
 
-
   <link rel="stylesheet" href="css/aos.css">
 
   <link rel="stylesheet" href="css/style.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
 </head>
 <body>
@@ -56,6 +57,7 @@
                 <li class="active">
                   <a href="index.html">Inicio</a>
                 </li>
+                <li><a href="about.html">¿Qué hacemos?</a></li>
                 <li class="has-children">
                   <a href="#">¡Síguenos!</a>
                   <ul class="dropdown arrow-top">
@@ -64,9 +66,7 @@
                     <li><a href="#">Menu Three</a></li>
                   </ul>
                 </li>
-                <li><a href="about.html">¿Qué hacemos?</a></li>
                 <li><a href="contact.html">Contáctame</a></li>
-                <!-- <li><a href="login-register.html">Login / Register</a></li> -->
               </ul>
             </nav>
 
@@ -142,41 +142,40 @@
               </ul>
             </div>
           </div>
+          
+          <div id="episodes" class="col-lg-9">
 
-          <div class="col-lg-9">
+            <script>
+              $(document).ready(function(){
+                $.getJSON("contenido/episodios.json", function(data){
+                  var all_eps = "";
+                  for (let index = data["seasons"].length; index > 0; index--) {
+                    const season = data["seasons"][index-1];
 
-            <div class="d-block d-md-flex podcast-entry bg-white mb-5" style="display:flex;flex-direction:row" data-aos="fade-up">
-              <iframe width="auto" src="https://www.youtube.com/embed/WLBJqeUQIC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-              <div class="text">
-                <h3 class="font-weight-light"><a href="contenido/s01/e03/loupz.html">Descubriendo #3 - Loupz </a></h3>
-                <div class="text-white mb-3"><span class="text-black-opacity-05"><small>[S01E03] <span class="sep">/</span> 20 de Julio de 2021 <span class="sep">/</span> 01:01:08</small></span></div>
-              </div>
-            </div>
+                    for (let index2 = season["ep"].length; index2 > 0; index2--) {
+                      const episode = season["ep"][index2-1];
+                      var ep = `
+                      <div class="d-md-flex podcast-entry bg-white mb-4" data-aos="fade-up">
+                        <div class="video-container">
+                          <iframe src="${episode["url"]["youtube"]}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="text">
+                          <h3 class="font-weight-light"><a href="${episode["url"]["web"]}">${episode["titulo"]}</a></h3>
+                          <div class="text-white mb-3"><span class="text-black-opacity-05"><small>[${episode["id"]}] <span class="sep">/</span> ${episode["fecha"]} <span class="sep">/</span> ${episode["duracion"]}</small></span></div>
+                        </div>
+                      </div>
+                      `;
 
-            <div class="d-block d-md-flex podcast-entry bg-white mb-5" data-aos="fade-up">
-              <iframe width="auto" src="https://www.youtube.com/embed/4uEq0VhKcUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-              <div class="text">
-                <h3 class="font-weight-light"><a href="contenido/s01/e02/shailia.html">Descubriendo #2 - Shailía </a></h3>
-                <div class="text-white mb-3"><span class="text-black-opacity-05"><small>[S01E02] <span class="sep">/</span> 12 de Julio de 2021 <span class="sep">/</span> 00:47:17</small></span></div>
-              </div>
-            </div>
+                      all_eps += ep;
+                    }
+                  }
+                  document.getElementById("episodes").innerHTML = all_eps;
 
-            <div class="d-block d-md-flex podcast-entry bg-white mb-5" data-aos="fade-up">
-              <iframe width="auto" src="https://www.youtube.com/embed/LpNnfa2eq_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-              <div class="text">
-                <h3 class="font-weight-light"><a href="contenido/s01/e01/miguel-sabalier.html">Descubriendo #1 - Miguel Sabalier </a></h3>
-                <div class="text-white mb-3"><span class="text-black-opacity-05"><small>[S01E01] <span class="sep">/</span> 9 de Julio de 2021 <span class="sep">/</span> 01:22:38</small></span></div>
-              </div>
-            </div>
-
-            <div class="d-block d-md-flex podcast-entry bg-white mb-5" data-aos="fade-up">
-              <iframe width="auto" src="https://www.youtube.com/embed/Uf7w6LwH4fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-              <div class="text">
-                <h3 class="font-weight-light"><a href="contenido/s01/e00/intro.html">Descubriendo #0 - Intro </a></h3>
-                <div class="text-white mb-3"><span class="text-black-opacity-05"><small>[S01E00] <span class="sep">/</span> 7 de Julio de 2021 <span class="sep">/</span> 00:06:05</small></span></div>
-              </div>
-            </div>
-
+                }).fail(function(){
+                  console.log("An error has occurred.");
+                });
+              });
+            </script>
 
           </div>
         </div>

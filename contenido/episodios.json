@@ -1,0 +1,48 @@
+{
+  "seasons": [
+    {
+      "ep": [
+        {
+          "id": "S01E00",
+          "titulo": "Descubriendo #0 - Intro",
+          "url": {
+            "youtube" : "https://www.youtube.com/embed/Uf7w6LwH4fw",
+            "web": "contenido/s01/e00/intro.html"
+          },
+          "fecha": "7 de Julio de 2021",
+          "duracion": "00:06:05"
+        },
+        {
+          "id": "S01E01",
+          "titulo": "Descubriendo #1 - Miguel Sabalier",
+          "url": {
+            "youtube" : "https://www.youtube.com/embed/LpNnfa2eq_g",
+            "web": "contenido/s01/e01/miguel-sabalier.html"
+          },
+          "fecha": "9 de Julio de 2021",
+          "duracion": "01:22:38"
+        },
+        {
+          "id": "S01E02",
+          "titulo": "Descubriendo #2 - Shailía",
+          "url": {
+            "youtube" : "https://www.youtube.com/embed/4uEq0VhKcUg",
+            "web": "contenido/s01/e02/shailia.html"
+          },
+          "fecha": "12 de Julio de 2021",
+          "duracion": "00:47:17"
+        },
+        {
+          "id": "S01E03",
+          "titulo": "Descubriendo #3 - Loupz",
+          "url": {
+            "youtube" : "https://www.youtube.com/embed/WLBJqeUQIC0",
+            "web": "contenido/s01/e03/loupz.html"
+          },
+          "fecha": "20 de Julio de 2021",
+          "duracion": "01:01:08"
+        }
+      ]
+    }
+  ]
+}
