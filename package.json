@@ -4,8 +4,7 @@
   "dependencies": {
     "@popperjs/core": "^2.9.2",
     "aos": "^2.3.4",
-    "bootstrap": "^5.0.2",
-    "grunt": "^1.4.1",
+    "bootstrap": "^4.6.0",
     "jquery": "^3.6.0",
     "jquery-countdown": "^2.2.0",
     "jquery.stellar": "^0.6.2",
