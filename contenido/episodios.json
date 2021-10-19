@@ -41,6 +41,46 @@
           },
           "fecha": "20 de Julio de 2021",
           "duracion": "01:01:08"
+        },
+        {
+          "id": "S01E04",
+          "titulo": "Descubriendo #4 - Rodriix",
+          "url": {
+            "youtube" : "https://www.youtube.com/embed/K4hMw8pZ0mk",
+            "web": "contenido/s01/e04/rodriix.html"
+          },
+          "fecha": "18 de Agosto de 2021",
+          "duracion": "00:48:10"
+        },
+        {
+          "id": "S01E05",
+          "titulo": "Descubriendo #5 - ECLIPSE (@eclipselunvr)",
+          "url": {
+            "youtube" : "https://www.youtube.com/embed/CGLw_ckufbg",
+            "web": "contenido/s01/e05/eclipse.html"
+          },
+          "fecha": "25 de Agosto de 2021",
+          "duracion": "00:47:39"
+        },
+        {
+          "id": "S01E06",
+          "titulo": "Descubriendo #6 - Kida Stacy (@kidagameplays)",
+          "url": {
+            "youtube" : "https://www.youtube.com/embed/4x_sgCom_GM",
+            "web": "contenido/s01/e06/kida.html"
+          },
+          "fecha": "24 de Septiembre de 2021",
+          "duracion": "00:43:58"
+        },
+        {
+          "id": "S01E07",
+          "titulo": "Descubriendo #7 - JHEX (@Jhex)",
+          "url": {
+            "youtube" : "https://www.youtube.com/embed/TbvBiNiDl4A",
+            "web": "contenido/s01/e07/kida.html"
+          },
+          "fecha": "12 de Octubre de 2021",
+          "duracion": "00:51:07"
         }
       ]
     }
