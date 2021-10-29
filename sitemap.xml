@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://pasalogroup.github.io/descubriendo/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://pasalogroup.github.io/descubriendo/</loc>
+</url>
+<url>
+<loc>https://pasalogroup.github.io/descubriendo/descubriendo-0-intro/</loc>
+<lastmod>2021-10-28T20:37:11-04:00</lastmod>
+<image:image>
+<image:loc>https://pasalogroup.github.io/descubriendo/media\posts\3/s01e00_thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://pasalogroup.github.io/descubriendo/descubriendo-1-miguel-sabalier/</loc>
+<lastmod>2021-10-28T21:02:58-04:00</lastmod>
+</url>
+<url>
+<loc>https://pasalogroup.github.io/descubriendo/descubriendo-2-shailia/</loc>
+<lastmod>2021-10-28T21:02:51-04:00</lastmod>
+</url>
+<url>
+<loc>https://pasalogroup.github.io/descubriendo/descubriendo-3-loupz/</loc>
+<lastmod>2021-10-28T21:02:46-04:00</lastmod>
+</url>
+<url>
+<loc>https://pasalogroup.github.io/descubriendo/descubriendo-4-rodriix/</loc>
+<lastmod>2021-10-28T21:02:42-04:00</lastmod>
+</url>
+<url>
+<loc>https://pasalogroup.github.io/descubriendo/descubriendo-5-eclipse-eclipselunvr/</loc>
+<lastmod>2021-10-28T21:02:35-04:00</lastmod>
+</url>
+<url>
+<loc>https://pasalogroup.github.io/descubriendo/descubriendo-6-kida-stacy-kidagameplays/</loc>
+<lastmod>2021-10-28T21:04:43-04:00</lastmod>
+</url>
+<url>
+<loc>https://pasalogroup.github.io/descubriendo/descubriendo-7-jhex-jhex/</loc>
+<lastmod>2021-10-28T21:05:59-04:00</lastmod>
+</url>
+</urlset>
