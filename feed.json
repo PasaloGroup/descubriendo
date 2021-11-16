@@ -10,12 +10,27 @@
     },
     "items": [
         {
-            "id": "https://pasalogroup.github.io/descubriendo/descubriendo-7-jhex-jhex/",
-            "url": "https://pasalogroup.github.io/descubriendo/descubriendo-7-jhex-jhex/",
+            "id": "https://pasalogroup.github.io/descubriendo/s01e08/",
+            "url": "https://pasalogroup.github.io/descubriendo/s01e08/",
+            "title": "Descubriendo #8 - Puerto Ricans? (Alejandro Navia)",
+            "content_html": "<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MUj4BDYm_Bg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasalogroup.github.io/descubriendo/media/posts/11/S01E08_thumbnail.png",
+            "author": {
+                "name": "Carlos Figueroa-Soto"
+            },
+            "tags": [
+                   "S01E08",
+                   "S01"
+            ],
+            "date_published": "2021-11-14T17:43:00-05:00",
+            "date_modified": "2021-11-16T17:49:53-05:00"
+        },
+        {
+            "id": "https://pasalogroup.github.io/descubriendo/s01e07/",
+            "url": "https://pasalogroup.github.io/descubriendo/s01e07/",
             "title": "Descubriendo #7 - JHEX (@Jhex)",
-            "summary": "Text ",
-            "content_html": "<p>Text</p>\n<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/TbvBiNiDl4A\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasalogroup.github.io/descubriendo/media/posts/10/s01e07_thumbnail.jpg",
+            "content_html": "<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/TbvBiNiDl4A\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasalogroup.github.io/descubriendo/media/posts/10/S01E07_thumbnail.png",
             "author": {
                 "name": "Carlos Figueroa-Soto"
             },
@@ -24,15 +39,14 @@
                    "S01"
             ],
             "date_published": "2021-10-12T21:05:00-04:00",
-            "date_modified": "2021-10-28T21:29:03-04:00"
+            "date_modified": "2021-11-16T17:50:09-05:00"
         },
         {
-            "id": "https://pasalogroup.github.io/descubriendo/descubriendo-6-kida-stacy-kidagameplays/",
-            "url": "https://pasalogroup.github.io/descubriendo/descubriendo-6-kida-stacy-kidagameplays/",
+            "id": "https://pasalogroup.github.io/descubriendo/s01e06/",
+            "url": "https://pasalogroup.github.io/descubriendo/s01e06/",
             "title": "Descubriendo #6 - Kida Stacy (@kidagameplays)",
-            "summary": "Text ",
-            "content_html": "<p>Text</p>\n<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4x_sgCom_GM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasalogroup.github.io/descubriendo/media/posts/9/s01e06_thumbnail.jpg",
+            "content_html": "<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4x_sgCom_GM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasalogroup.github.io/descubriendo/media/posts/9/S01E06_thumbnail.png",
             "author": {
                 "name": "Carlos Figueroa-Soto"
             },
@@ -41,15 +55,14 @@
                    "S01"
             ],
             "date_published": "2021-09-24T21:04:00-04:00",
-            "date_modified": "2021-10-28T21:28:11-04:00"
+            "date_modified": "2021-11-16T17:50:14-05:00"
         },
         {
-            "id": "https://pasalogroup.github.io/descubriendo/descubriendo-5-eclipse-eclipselunvr/",
-            "url": "https://pasalogroup.github.io/descubriendo/descubriendo-5-eclipse-eclipselunvr/",
+            "id": "https://pasalogroup.github.io/descubriendo/s01e05/",
+            "url": "https://pasalogroup.github.io/descubriendo/s01e05/",
             "title": "Descubriendo #5 - ECLIPSE (@eclipselunvr)",
-            "summary": "Text ",
-            "content_html": "<p>Text</p>\n<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CGLw_ckufbg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasalogroup.github.io/descubriendo/media/posts/8/s01e05_thumbnail.jpg",
+            "content_html": "<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CGLw_ckufbg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasalogroup.github.io/descubriendo/media/posts/8/S01E05_thumbnail.png",
             "author": {
                 "name": "Carlos Figueroa-Soto"
             },
@@ -58,15 +71,14 @@
                    "S01"
             ],
             "date_published": "2021-08-25T21:02:00-04:00",
-            "date_modified": "2021-10-28T21:27:32-04:00"
+            "date_modified": "2021-11-16T17:50:19-05:00"
         },
         {
-            "id": "https://pasalogroup.github.io/descubriendo/descubriendo-4-rodriix/",
-            "url": "https://pasalogroup.github.io/descubriendo/descubriendo-4-rodriix/",
+            "id": "https://pasalogroup.github.io/descubriendo/s01e04/",
+            "url": "https://pasalogroup.github.io/descubriendo/s01e04/",
             "title": "Descubriendo #4 - Rodriix",
-            "summary": "Text ",
-            "content_html": "<p>Text</p>\n<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/K4hMw8pZ0mk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasalogroup.github.io/descubriendo/media/posts/7/s01e04_thumbnail.jpg",
+            "content_html": "<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/K4hMw8pZ0mk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasalogroup.github.io/descubriendo/media/posts/7/S01E04_thumbnail.png",
             "author": {
                 "name": "Carlos Figueroa-Soto"
             },
@@ -75,15 +87,14 @@
                    "S01"
             ],
             "date_published": "2021-08-18T20:58:00-04:00",
-            "date_modified": "2021-10-28T21:26:42-04:00"
+            "date_modified": "2021-11-16T17:50:24-05:00"
         },
         {
-            "id": "https://pasalogroup.github.io/descubriendo/descubriendo-3-loupz/",
-            "url": "https://pasalogroup.github.io/descubriendo/descubriendo-3-loupz/",
+            "id": "https://pasalogroup.github.io/descubriendo/s01e03/",
+            "url": "https://pasalogroup.github.io/descubriendo/s01e03/",
             "title": "Descubriendo #3 - Loupz",
-            "summary": "Text ",
-            "content_html": "<p>Text</p>\n<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WLBJqeUQIC0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasalogroup.github.io/descubriendo/media/posts/6/s01e03_thumbnail.jpg",
+            "content_html": "<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WLBJqeUQIC0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasalogroup.github.io/descubriendo/media/posts/6/S01E03_thumbnail.png",
             "author": {
                 "name": "Carlos Figueroa-Soto"
             },
@@ -92,15 +103,14 @@
                    "S01"
             ],
             "date_published": "2021-07-20T20:52:00-04:00",
-            "date_modified": "2021-10-28T21:25:59-04:00"
+            "date_modified": "2021-11-16T17:50:30-05:00"
         },
         {
-            "id": "https://pasalogroup.github.io/descubriendo/descubriendo-2-shailia/",
-            "url": "https://pasalogroup.github.io/descubriendo/descubriendo-2-shailia/",
+            "id": "https://pasalogroup.github.io/descubriendo/s01e02/",
+            "url": "https://pasalogroup.github.io/descubriendo/s01e02/",
             "title": "Descubriendo #2 - Shailía",
-            "summary": "Text ",
-            "content_html": "<p>Text</p>\n<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4uEq0VhKcUg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasalogroup.github.io/descubriendo/media/posts/5/s01e02_thumbnail.jpg",
+            "content_html": "<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4uEq0VhKcUg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasalogroup.github.io/descubriendo/media/posts/5/S01E02_thumbnail.png",
             "author": {
                 "name": "Carlos Figueroa-Soto"
             },
@@ -109,15 +119,14 @@
                    "S01"
             ],
             "date_published": "2021-07-12T20:49:00-04:00",
-            "date_modified": "2021-10-28T21:25:15-04:00"
+            "date_modified": "2021-11-16T17:50:35-05:00"
         },
         {
-            "id": "https://pasalogroup.github.io/descubriendo/descubriendo-1-miguel-sabalier/",
-            "url": "https://pasalogroup.github.io/descubriendo/descubriendo-1-miguel-sabalier/",
+            "id": "https://pasalogroup.github.io/descubriendo/s01e01/",
+            "url": "https://pasalogroup.github.io/descubriendo/s01e01/",
             "title": "Descubriendo #1 - Miguel Sabalier",
-            "summary": "Text ",
-            "content_html": "<p>Text</p>\n<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/LpNnfa2eq_g\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasalogroup.github.io/descubriendo/media/posts/4/s01e01_thumbnail.jpg",
+            "content_html": "<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/LpNnfa2eq_g\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasalogroup.github.io/descubriendo/media/posts/4/S01E01_thumbnail.png",
             "author": {
                 "name": "Carlos Figueroa-Soto"
             },
@@ -126,15 +135,14 @@
                    "S01"
             ],
             "date_published": "2021-07-09T20:47:00-04:00",
-            "date_modified": "2021-10-28T21:23:43-04:00"
+            "date_modified": "2021-11-16T17:50:40-05:00"
         },
         {
-            "id": "https://pasalogroup.github.io/descubriendo/descubriendo-0-intro/",
-            "url": "https://pasalogroup.github.io/descubriendo/descubriendo-0-intro/",
+            "id": "https://pasalogroup.github.io/descubriendo/s01e00/",
+            "url": "https://pasalogroup.github.io/descubriendo/s01e00/",
             "title": "Descubriendo #0 - Intro",
-            "summary": "Ep ",
-            "content_html": "<p>Ep</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Uf7w6LwH4fw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasalogroup.github.io/descubriendo/media/posts/3/s01e00_thumbnail.jpg",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Uf7w6LwH4fw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasalogroup.github.io/descubriendo/media/posts/3/S01E00_thumbnail.png",
             "author": {
                 "name": "Carlos Figueroa-Soto"
             },
@@ -143,7 +151,7 @@
                    "S01"
             ],
             "date_published": "2021-07-07T20:36:00-04:00",
-            "date_modified": "2021-10-28T20:37:11-04:00"
+            "date_modified": "2021-11-16T17:50:51-05:00"
         }
     ]
 }

@@ -3,34 +3,47 @@
     <title>Descubriendo.</title>
     <link href="https://pasalogroup.github.io/descubriendo/feed.xml" rel="self" />
     <link href="https://pasalogroup.github.io/descubriendo" />
-    <updated>2021-10-28T21:29:03-04:00</updated>
+    <updated>2021-11-16T17:50:51-05:00</updated>
     <author>
         <name>Carlos Figueroa-Soto</name>
     </author>
     <id>https://pasalogroup.github.io/descubriendo</id>
 
     <entry>
+        <title>Descubriendo #8 - Puerto Ricans? (Alejandro Navia)</title>
+        <author>
+            <name>Carlos Figueroa-Soto</name>
+        </author>
+        <link href="https://pasalogroup.github.io/descubriendo/s01e08/"/>
+        <id>https://pasalogroup.github.io/descubriendo/s01e08/</id>
+            <category term="S01E08"/>
+            <category term="S01"/>
+
+        <updated>2021-11-16T17:49:53-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/11/S01E08_thumbnail.png" alt="" />
+                <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/MUj4BDYm_Bg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Descubriendo #7 - JHEX (@Jhex)</title>
         <author>
             <name>Carlos Figueroa-Soto</name>
         </author>
-        <link href="https://pasalogroup.github.io/descubriendo/descubriendo-7-jhex-jhex/"/>
-        <id>https://pasalogroup.github.io/descubriendo/descubriendo-7-jhex-jhex/</id>
+        <link href="https://pasalogroup.github.io/descubriendo/s01e07/"/>
+        <id>https://pasalogroup.github.io/descubriendo/s01e07/</id>
             <category term="S01E07"/>
             <category term="S01"/>
 
-        <updated>2021-10-28T21:29:03-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pasalogroup.github.io/descubriendo/media/posts/10/s01e07_thumbnail.jpg" alt="" />
-                    Text 
-                ]]>
-            </summary>
+        <updated>2021-11-16T17:50:09-05:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/10/s01e07_thumbnail.jpg" alt="" />
-                <p>Text</p>
-<p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/TbvBiNiDl4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/10/S01E07_thumbnail.png" alt="" />
+                <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/TbvBiNiDl4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -39,23 +52,17 @@
         <author>
             <name>Carlos Figueroa-Soto</name>
         </author>
-        <link href="https://pasalogroup.github.io/descubriendo/descubriendo-6-kida-stacy-kidagameplays/"/>
-        <id>https://pasalogroup.github.io/descubriendo/descubriendo-6-kida-stacy-kidagameplays/</id>
+        <link href="https://pasalogroup.github.io/descubriendo/s01e06/"/>
+        <id>https://pasalogroup.github.io/descubriendo/s01e06/</id>
             <category term="S01E06"/>
             <category term="S01"/>
 
-        <updated>2021-10-28T21:28:11-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pasalogroup.github.io/descubriendo/media/posts/9/s01e06_thumbnail.jpg" alt="" />
-                    Text 
-                ]]>
-            </summary>
+        <updated>2021-11-16T17:50:14-05:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/9/s01e06_thumbnail.jpg" alt="" />
-                <p>Text</p>
-<p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/4x_sgCom_GM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/9/S01E06_thumbnail.png" alt="" />
+                <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/4x_sgCom_GM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -64,23 +71,17 @@
         <author>
             <name>Carlos Figueroa-Soto</name>
         </author>
-        <link href="https://pasalogroup.github.io/descubriendo/descubriendo-5-eclipse-eclipselunvr/"/>
-        <id>https://pasalogroup.github.io/descubriendo/descubriendo-5-eclipse-eclipselunvr/</id>
+        <link href="https://pasalogroup.github.io/descubriendo/s01e05/"/>
+        <id>https://pasalogroup.github.io/descubriendo/s01e05/</id>
             <category term="S01E05"/>
             <category term="S01"/>
 
-        <updated>2021-10-28T21:27:32-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pasalogroup.github.io/descubriendo/media/posts/8/s01e05_thumbnail.jpg" alt="" />
-                    Text 
-                ]]>
-            </summary>
+        <updated>2021-11-16T17:50:19-05:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/8/s01e05_thumbnail.jpg" alt="" />
-                <p>Text</p>
-<p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/CGLw_ckufbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/8/S01E05_thumbnail.png" alt="" />
+                <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/CGLw_ckufbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -89,23 +90,17 @@
         <author>
             <name>Carlos Figueroa-Soto</name>
         </author>
-        <link href="https://pasalogroup.github.io/descubriendo/descubriendo-4-rodriix/"/>
-        <id>https://pasalogroup.github.io/descubriendo/descubriendo-4-rodriix/</id>
+        <link href="https://pasalogroup.github.io/descubriendo/s01e04/"/>
+        <id>https://pasalogroup.github.io/descubriendo/s01e04/</id>
             <category term="S01E04"/>
             <category term="S01"/>
 
-        <updated>2021-10-28T21:26:42-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pasalogroup.github.io/descubriendo/media/posts/7/s01e04_thumbnail.jpg" alt="" />
-                    Text 
-                ]]>
-            </summary>
+        <updated>2021-11-16T17:50:24-05:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/7/s01e04_thumbnail.jpg" alt="" />
-                <p>Text</p>
-<p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/K4hMw8pZ0mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/7/S01E04_thumbnail.png" alt="" />
+                <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/K4hMw8pZ0mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -114,23 +109,17 @@
         <author>
             <name>Carlos Figueroa-Soto</name>
         </author>
-        <link href="https://pasalogroup.github.io/descubriendo/descubriendo-3-loupz/"/>
-        <id>https://pasalogroup.github.io/descubriendo/descubriendo-3-loupz/</id>
+        <link href="https://pasalogroup.github.io/descubriendo/s01e03/"/>
+        <id>https://pasalogroup.github.io/descubriendo/s01e03/</id>
             <category term="S01E03"/>
             <category term="S01"/>
 
-        <updated>2021-10-28T21:25:59-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pasalogroup.github.io/descubriendo/media/posts/6/s01e03_thumbnail.jpg" alt="" />
-                    Text 
-                ]]>
-            </summary>
+        <updated>2021-11-16T17:50:30-05:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/6/s01e03_thumbnail.jpg" alt="" />
-                <p>Text</p>
-<p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/WLBJqeUQIC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/6/S01E03_thumbnail.png" alt="" />
+                <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/WLBJqeUQIC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -139,23 +128,17 @@
         <author>
             <name>Carlos Figueroa-Soto</name>
         </author>
-        <link href="https://pasalogroup.github.io/descubriendo/descubriendo-2-shailia/"/>
-        <id>https://pasalogroup.github.io/descubriendo/descubriendo-2-shailia/</id>
+        <link href="https://pasalogroup.github.io/descubriendo/s01e02/"/>
+        <id>https://pasalogroup.github.io/descubriendo/s01e02/</id>
             <category term="S01E02"/>
             <category term="S01"/>
 
-        <updated>2021-10-28T21:25:15-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pasalogroup.github.io/descubriendo/media/posts/5/s01e02_thumbnail.jpg" alt="" />
-                    Text 
-                ]]>
-            </summary>
+        <updated>2021-11-16T17:50:35-05:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/5/s01e02_thumbnail.jpg" alt="" />
-                <p>Text</p>
-<p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/4uEq0VhKcUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/5/S01E02_thumbnail.png" alt="" />
+                <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/4uEq0VhKcUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -164,23 +147,17 @@
         <author>
             <name>Carlos Figueroa-Soto</name>
         </author>
-        <link href="https://pasalogroup.github.io/descubriendo/descubriendo-1-miguel-sabalier/"/>
-        <id>https://pasalogroup.github.io/descubriendo/descubriendo-1-miguel-sabalier/</id>
+        <link href="https://pasalogroup.github.io/descubriendo/s01e01/"/>
+        <id>https://pasalogroup.github.io/descubriendo/s01e01/</id>
             <category term="S01E01"/>
             <category term="S01"/>
 
-        <updated>2021-10-28T21:23:43-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pasalogroup.github.io/descubriendo/media/posts/4/s01e01_thumbnail.jpg" alt="" />
-                    Text 
-                ]]>
-            </summary>
+        <updated>2021-11-16T17:50:40-05:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/4/s01e01_thumbnail.jpg" alt="" />
-                <p>Text</p>
-<p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/LpNnfa2eq_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/4/S01E01_thumbnail.png" alt="" />
+                <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/LpNnfa2eq_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -189,23 +166,17 @@
         <author>
             <name>Carlos Figueroa-Soto</name>
         </author>
-        <link href="https://pasalogroup.github.io/descubriendo/descubriendo-0-intro/"/>
-        <id>https://pasalogroup.github.io/descubriendo/descubriendo-0-intro/</id>
+        <link href="https://pasalogroup.github.io/descubriendo/s01e00/"/>
+        <id>https://pasalogroup.github.io/descubriendo/s01e00/</id>
             <category term="S01E00"/>
             <category term="S01"/>
 
-        <updated>2021-10-28T20:37:11-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pasalogroup.github.io/descubriendo/media/posts/3/s01e00_thumbnail.jpg" alt="" />
-                    Ep 
-                ]]>
-            </summary>
+        <updated>2021-11-16T17:50:51-05:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/3/s01e00_thumbnail.jpg" alt="" />
-                <p>Ep</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/Uf7w6LwH4fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+                    <img src="https://pasalogroup.github.io/descubriendo/media/posts/3/S01E00_thumbnail.png" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/Uf7w6LwH4fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
